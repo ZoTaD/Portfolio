@@ -4,27 +4,27 @@ import { Github, ExternalLink, ChevronDown, Sun, Moon, Linkedin } from 'lucide-r
 const projects = [
   {
     title: "E-Commerce Platform",
-    description: "A full-stack e-commerce platform built with React",
+    description: "A e-commerce platform for beauty services with a modern design",
     image: "https://images.unsplash.com/photo-1661956602116-aa6865609028?auto=format&fit=crop&q=80&w=800",
-    tech: ["React", "Tailwind CSS"],
-    github: "https://github.com",
-    live: "https://demo.com"
+    tech: ["React", "Tailwind CSS", "Vite"],
+    github: "https://github.com/ZoTaD/Glamm",
+    live: "https://glammestetica.netlify.app/"
   },
   {
     title: "Task Management App",
     description: "A collaborative task management application with real-time updates",
     image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80&w=800",
     tech: ["MongoDB", "Express", "React", "Node.js"],
-    github: "https://github.com",
+    github: "https://github.com/ZoTaD/mern-app",
     live: "https://demo.com"
   },
   {
-    title: "Weather Dashboard",
-    description: "Real-time weather monitoring dashboard with detailed analytics",
+    title: "Coming Soon",
+    description: "",
     image: "https://images.unsplash.com/photo-1555099962-4199c345e5dd?auto=format&fit=crop&q=80&w=800",
     tech: ["React", "OpenWeather API", "ChartJS"],
     github: "https://github.com",
-    live: "https://demo.com"
+    live: "https://tasks.blonix.pro/"
   }
 ];
 
