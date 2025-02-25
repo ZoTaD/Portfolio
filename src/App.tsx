@@ -100,7 +100,7 @@ function App() {
             className="w-full h-full object-cover opacity-20"
           />
         </div>
-        <div className="relative z-10 bg-gradient-to-r from-blue-600 to-indigo-700 dark:from-blue-800 dark:to-indigo-900 text-white">
+        <div  className="fondo relative z-10 bg-gradient-to-r from-blue-600 to-indigo-700 dark:from-blue-800 dark:to-indigo-900 text-white">
           <div className="container mx-auto px-6 py-32">
             <h1 className="text-5xl font-bold mb-4">Nicolás Rodriguez Grundy</h1>
             <h2 className="text-3xl font-semibold mb-6">Full Stack Developer</h2>
